@@ -1,5 +1,24 @@
-PROJECT TITLE: Simple Python Calculator
-PROJECT DESCRIPTION: This is a beginner‑friendly Python calculator that takes three numbers as input and performs basic arithmetic operations: addition, subtraction, multiplication, and division. The project demonstrates my understanding of user input, data types, variables, and basic math operations in Python. It is part of my ongoing practice as I learn programming.
-FEATURES:  Accepts three user inputs; Converts input from text to integers; Performs addition, subtraction, multiplication, and division; Displays results clearly in the console
-What I Learned: - How to use print() to display messages; How to collect user input with input(); How to convert text input into numbers using int();  How to store values in variables; How to perform basic math operations; How to structure a simple Python script
-How to Run the Program: 1. Save the file as Calculator.py  2. Run it using: python Calculator.py 3. Enter three numbers when prompted 4. The program will display all four operations
+ Simple Python Calculator
+
+ Project Description
+This is a beginner‑friendly Python calculator that takes three numbers as input and performs basic arithmetic operations: addition, subtraction, multiplication, and division. The project demonstrates my understanding of user input, data types, variables, and basic math operations in Python. It is part of my ongoing practice as I learn programming.
+
+ Features
+- Accepts three user inputs  
+- Converts input from text to integers  
+- Performs addition, subtraction, multiplication, and division  
+- Displays results clearly in the console  
+
+ What I Learned
+- How to use print() to display messages  
+- How to collect user input with input()  
+- How to convert text input into numbers using int()  
+- How to store values in variables  
+- How to perform basic math operations  
+- How to structure a simple Python script  
+
+ How to Run the Program
+1. Save the file as `Calculator.py`  
+2. Run it using: `python Calculator.py`  
+3. Enter three numbers when prompted  
+4. The program will display all four operations  
